@@ -1,0 +1,14 @@
+<html>
+<head></head>
+<body>
+[20/10, 19:09] +55 22 99926-0376: https://create.kahoot.it/details/ruan-e-daniel/36f1267d-90ec-482f-b373-75cd0cecbba0
+[20/10, 19:09] +55 22 99926-0376: https://create.kahoot.it/share/trabalho/0e1d302d-217c-42f6-b89c-bf811250e435
+[20/10, 19:09] +55 22 99926-0376: https://create.kahoot.it/share/reutilizacao-de-recursos/a9c7d853-5eed-4b33-8f22-9fb45106ba62
+[20/10, 19:09] +55 22 99926-0376: https://create.kahoot.it/details/trabalho/0e1d302d-217c-42f6-b89c-bf811250e435
+[20/10, 19:09] +55 22 99926-0376: https://create.kahoot.it/share/consumo-de-agua-e-dicas-de-reducao-no-nosso-lar/f48d38bf-f9bc-477a-9fa5-48b8255a1ace
+[20/10, 19:09] +55 22 99926-0376: https://create.kahoot.it/share/feira/2920ca5a-78f5-40b9-a9cc-0997ba8e40bb
+[20/10, 19:09] +55 22 99926-0376: https://create.kahoot.it/share/uso-consciente-da-agua-no-planeta/ca1780eb-110f-4963-a733-0d91d1d69742
+[20/10, 19:15] +55 22 99973-2745: https://create.kahoot.it/share/trabalho-matheus-frutuoso/6de8c9f0-2dc0-41b3-9f22-c28283bc571c
+[20/10, 19:16] +55 22 99973-2745: https://create.kahoot.it/share/planeta-agua/c915815a-58ea-4e0a-bbc4-278147a0531c
+</body>
+</html>
